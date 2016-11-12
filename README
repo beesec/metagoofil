@@ -19,7 +19,7 @@ What is this?
 
 Metagoofil is a tool for extracting metadata of public documents (pdf,doc,xls,ppt,etc) availables in the target websites. This information could be useful because you can get valid usernames, people names, for using later in bruteforce password attacks (vpn, ftp, webapps), the tool will also extracts interesting "paths" of the documents, where we can get shared resources names, server names, etc.
 
-Metagoodil Selenium uses Selenium to perform the google search. This can lead to user interaction in case of captchas.
+Metagoofil Selenium uses Selenium to perform the google search. This can lead to user interaction in case of captchas.
 
 How it works?
 ------------
